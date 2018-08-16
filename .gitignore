@@ -1,0 +1,11 @@
+#EAGLE ignores
+*.*#*
+
+#LTSPICE ignores
+*.raw
+*.op.raw
+*.log
+*.net
+*.plt
+
+
